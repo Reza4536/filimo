@@ -1,4 +1,4 @@
-{
+    let filimoMovis =[ 
     "1": {
         "name": "هیتمن : مامور 47",
         "image": "https://static.cdn.asset.filimo.com/flmt/mov_20438_1-m.jpg",
@@ -159,4 +159,4 @@
         "year": "۲۰۱۰",
         "contery": "آمریکا"
     }
-}
+]
